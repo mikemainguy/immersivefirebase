@@ -1,0 +1,23 @@
+{
+  "name": "immersivefirebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikemainguy/immersivefirebase.git"
+  },
+  "dependencies": {
+    "firebase-admin": "11.5.0",
+    "firebase-functions": "^4.2.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikemainguy/immersivefirebase/issues"
+  },
+  "homepage": "https://github.com/mikemainguy/immersivefirebase#readme"
+}
